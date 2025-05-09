@@ -1,0 +1,8 @@
+prefix=/home/eva/prueba1_ws/devel
+
+Name: abb_irb140_support
+Description: Description of abb_irb140_support
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

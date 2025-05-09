@@ -1,0 +1,8 @@
+prefix=/home/eva/prueba1_ws/devel
+
+Name: abb_irb140_moveit_config
+Description: Description of abb_irb140_moveit_config
+Version: 1.1.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

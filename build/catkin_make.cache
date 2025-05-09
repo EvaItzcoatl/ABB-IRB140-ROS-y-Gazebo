@@ -1,0 +1,2 @@
+abb_irb140_support
+-DCATKIN_DEVEL_PREFIX=/home/eva/prueba1_ws/devel -DCMAKE_INSTALL_PREFIX=/home/eva/prueba1_ws/install -G Unix Makefiles
