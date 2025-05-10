@@ -111,7 +111,8 @@ En la terminal
 - cd ~/prueba1_ws
 - catkin_make
 - source devel/setup.bash #Permite utilizar comandos ROS, asegura las conecciones entre los archivos y configura el entorno de trabajo
-- roslaunch abb_irb140_support irb140_gazebo.launch #Este archivo abre Gazebo y muestra el robot
+- roslaunch abb_irb140_support irb140_gazebo.launch #Este archivo abre Gazebo y muestra el robot.
+
 Con esto se abrira Gazebo y lograremos visualizar el robot ABB IRB140, no te preocupes si el robot aparece en con si estuviera tirado o mal acomodado, lo arreglaremos en los siguientes pasos.
 
 **Paso 6:** Poner en posición cero el robot
