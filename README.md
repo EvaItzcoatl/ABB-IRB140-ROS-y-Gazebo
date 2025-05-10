@@ -121,7 +121,7 @@ Abre otro terminal y coloca los siguientes comandos:
 - rosservice call /gazebo/dele_model "model_name: 'irb140'" #Elimina el robot
 - rosparam get /robot_description #Permite simular el comportamiento del robot en Gazebo
 - rosrun gazebo_ros spawn_model -urdf -param robot_description -model irb140 -x 0 -y 0 -z 0 #Coloca el robot en Gazebo y lo pone en configuración cero
-- 
+
 **Paso 7:** Mover el robot mediante un código en Phyton
 
 Debemos entrar a la carpeta "scripts", para esto colocamos en la terminal lo siguiente:
@@ -129,6 +129,7 @@ Debemos entrar a la carpeta "scripts", para esto colocamos en la terminal lo sig
 - ./mover_irb140.py
 
 Para poder ver el robor funcionar, es recomendable minimizar la terminal justa después de darle enter al comando.
+
 Si sale algun error como **Permiso denegado** es necesario ir a la carpeta donde se encuentra el archivo (prueba1_ws/src/abb_irb140_support/scripts), le damos clic derecho al archivo y en seleccionamos *"propiedades"*, esto abre una nueva ventana, le damos en *"Permisos"* y seleccionamos **"Permitir ejecutar el archivo como programa"**.
 
 **Explicacaión del código** 
