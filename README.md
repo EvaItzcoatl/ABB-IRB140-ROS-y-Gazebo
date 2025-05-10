@@ -127,12 +127,13 @@ Abre otro terminal y coloca los siguientes comandos:
 Debemos entrar a la carpeta "scripts", para esto colocamos en la terminal lo siguiente:
 - cd ~/prueba1_ws/src/abb_irb140_support/scripts/
 - ./mover_irb140.py
+
 Para poder ver el robor funcionar, es recomendable minimizar la terminal justa después de darle enter al comando.
 Si sale algun error como **Permiso denegado** es necesario ir a la carpeta donde se encuentra el archivo (prueba1_ws/src/abb_irb140_support/scripts), le damos clic derecho al archivo y en seleccionamos *"propiedades"*, esto abre una nueva ventana, le damos en *"Permisos"* y seleccionamos **"Permitir ejecutar el archivo como programa"**.
 
 **Explicacaión del código** 
 
-Explicación de Pablo
+
 
 Para terminar la simulación, en la primera terminal donde ejecutamos el archivo .launch, damos ctrl+c y termina la ejecución, esto cierra Gazebo. 
 
