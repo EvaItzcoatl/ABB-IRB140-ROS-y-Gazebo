@@ -132,7 +132,8 @@ Si sale algun error como **Permiso denegado** es necesario ir a la carpeta donde
 
 **Explicacaión del código** 
 
-  
+Para terminar la simulación, en la primera terminal donde ejecutamos el archivo .launch, damos ctrl+c y termina la ejecución, esto cierra Gazebo. 
+
 ---
 ## ✅ Conclusión
 En este tutorial aprendimos las distntas formas de mover el robot ABB IRB 140 desde la terminal, mediante un código en Phyton o desde la terminal. De igual forma aprendimos un poco sobre el uso de ROS, como clonar un repositorio y crear carpetas o archivos desde la terminal, además de utilizar otras herramientas externas como lo es MATLAB. 
