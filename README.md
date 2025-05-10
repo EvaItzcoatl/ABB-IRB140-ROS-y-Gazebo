@@ -132,6 +132,8 @@ Si sale algun error como **Permiso denegado** es necesario ir a la carpeta donde
 
 **Explicacaión del código** 
 
+Explicación de Pablo
+
 Para terminar la simulación, en la primera terminal donde ejecutamos el archivo .launch, damos ctrl+c y termina la ejecución, esto cierra Gazebo. 
 
 ---
