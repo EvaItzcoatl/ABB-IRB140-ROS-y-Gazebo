@@ -160,6 +160,10 @@ Los siguientes repositorios fueron utilizados para generar el workspace utilizad
 
 Para preguntas o sugerencias:
 
+* Asesor encargado de la página: César Martínez Torres
+  
+   📧 Correo electrónico: cesar.martinez@udlap.mx
+  
 * Redactor del tutorial: Eva Andrea Itzcoatl Tepeyahuitl
   
    📧 Correo electrónico: itzcoatl2902@gmail.com
