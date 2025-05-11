@@ -147,7 +147,7 @@ Si sale algun error como **Permiso denegado** es necesario ir a la carpeta donde
 
 **Explicacaión del código** 
 
-
+En el siguieten link puedes ver la explicaicón del código utilizado para simular el movimiento de *"pick and place"*, utilizando Phyton3 y MATLAB [Código en python del Pick And Place usando el ABB IRB 140](https://github.com/PTello29/PickAndPlace-ABB-IRB-140-Simulation)
 
 Para terminar la simulación, en la primera terminal donde ejecutamos el archivo .launch, damos ctrl+c y termina la ejecución, esto cierra Gazebo. 
 
